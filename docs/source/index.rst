@@ -20,13 +20,12 @@ Contents
 
    usage
    api
-   Home Page
-   :ref:'Log in Page' 
-   Profile Page
-   Recipe Generation Page 
-   Add Recipe Page 
-   Add/Remove ingredients Page 
-   About us Page
-   Frequently asked questions Page 
-
+   home_page
+   log_in_page
+   profile_page
+   recipe_generation_page
+   add_recipe_page
+   add_remove_ingredients_page
+   about_us_page
+   frequently_asked_questions_page
 
