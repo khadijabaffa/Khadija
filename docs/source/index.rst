@@ -21,7 +21,7 @@ Contents
    usage
    api
    Home Page
-   Log in Page 
+   :ref:'Log in Page' 
    Profile Page
    Recipe Generation Page 
    Add Recipe Page 
