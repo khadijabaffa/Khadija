@@ -6,7 +6,7 @@ Recipe Generation Page
 Usage
 -----
 The recipe generation page allows users to generate recipes based on their selected ingredients. It comprises three main components:
-- **API Search:** The `api_search.dart` file contains the `RecipeService` class, which communicates with the Edamam API to fetch recipes based on user ingredients.
+-- **API Search:** The `api_search.dart` file contains the `RecipeService` class, which communicates with the Edamam API to fetch recipes based on user ingredients.
 - **Recipe Generation:** The `generation_page.dart` file implements the `GenerationPage` widget, which displays the generated recipes and provides an option to refresh the content.
 - **Recipe Model:** The `recipe.dart` file defines the `Recipe` and `Ingredient` classes, which represent recipe data fetched from the API.
 
