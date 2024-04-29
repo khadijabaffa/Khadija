@@ -1,4 +1,4 @@
-.. _recipe_generation_page:
+.._recipe_generation_page:
 
 Recipe Generation Page
 ======================
