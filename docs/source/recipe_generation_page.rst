@@ -15,7 +15,7 @@ The recipe generation page allows users to generate recipes based on their selec
 
 Each file contributes to the overall functionality of the recipe generation page as follows:
 
-API Search ``(api_search.dart)``
+API Search (api_search.dart)
 -----------------------------
 The `RecipeService` class interacts with the Edamam API to fetch recipes based on user ingredients. It provides the following functionalities:
 
