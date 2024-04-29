@@ -19,7 +19,6 @@ Contents
 .. toctree::
 
    usage
-   api
    home_page
    log_in_page
    profile_page
