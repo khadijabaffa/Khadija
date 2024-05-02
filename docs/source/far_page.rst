@@ -8,8 +8,8 @@ Functionality
 
 The FAQ Page includes the following functionality:
 
-- **Search:** Users can search for specific questions using the search bar provided at the top of the page.
-- **Filtering:** As users type their query in the search bar, the list of questions dynamically filters to display relevant results.
+- **Search:** The search box located at the top of the page allows users to search for specific questions.
+- **Filtering:** As users type their query into the search field, the list of questions is dynamically filtered to show relevant results.
 - **Expansion Tiles:** Each question is displayed as an expansion tile, allowing users to expand to view the answer.
 - **Styling:** Questions and answers are styled for readability, with customizable colors for the tile background, title, and content.
 
