@@ -10,8 +10,8 @@ Functionality
 
 The About Us Page includes the following functionality:
 
-- **Email Launch:** The `_launchEmail()` method is used to launch the default email app when the "Contact by email" option is tapped. It is implemented for multiple team members, each with their email address.
-- **Page Structure:** Utilizes a `Scaffold` widget with an `AppBar` for navigation and a `SingleChildScrollView` to enable scrolling through the content.
+- **Email Launch:** The `_launchEmail()` method is used to launch the default email app when the "Contact by email" option is tapped.It is implemented for several team members, each with their own email account.
+- **Page Structure:** Uses a 'Scaffold' widget with a 'AppBar' for navigation and a 'SingleChildScrollView' to allow scrolling across the content.
 - **Team Information:** Displays information about each team member, including their name, role, brief description, and an option to contact them via email.
 
 Implementation Details
